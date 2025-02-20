@@ -11,9 +11,19 @@ function App() {
 
   return (
     <>
-      {/* <Signup />
+      <div
+        style={{
+          textAlign: "center",
+          border: "3px solid white",
+          boxShadow: "-1px 0px 18px 13px rgba(0, 0, 0, 0.5)",
+          padding: "20px",
+          borderRadius: "5px",
+        }}
+      >
+        {/* <Signup />
       <Signin /> */}
-      <UserController/>
+        <UserController />
+      </div>
     </>
   );
 }

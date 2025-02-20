@@ -31,7 +31,7 @@ function Signin({ SubmitedData, crediantials }) {
           padding: "20px",
           minWidth: "500px",
           margin: "auto",
-          border: "1px solid black",
+          // border: "1px solid black",
           borderRadius: "5px",
         }}
       >
